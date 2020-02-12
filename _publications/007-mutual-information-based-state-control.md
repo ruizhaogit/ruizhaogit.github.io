@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/007-mutual-information-based-state-control
 excerpt: '
 <p align="left">
-  <img width="500" height="" src="/images/007-mutual-information-based-state-control.png">
+  <img width="500" height="" src="/images/007-mutual-information-based-state-control.gif">
 </p>'
 date: 2020-02-05
 venue: 'Under review'
