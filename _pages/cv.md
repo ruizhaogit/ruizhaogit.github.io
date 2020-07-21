@@ -67,7 +67,10 @@ Talks
   
 Service
 ======
+* Reviewer of Conference on Neural Information Processing Systems (NeurIPS), 2020
 * Reviewer of International Conference on Machine Learning (ICML), 2020
+* Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020
+* Reviewer of IEEE Robotics and Automation Letters (RA-L), 2020
 * Reviewer of Journal of Machine Learning Research (JMLR), 2019
 * Reviewer of IEEE Robotics and Automation Letters (RA-L), 2018
 * Reviewer of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018
