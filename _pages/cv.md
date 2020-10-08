@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ludwig Maximilian University of Munich**, Germany
-  - PhD in Deep Reinforcement Learning, Computer Science, 12, 2016--present
+  - PhD in Deep Reinforcement Learning, Computer Science, 12, 2016--09, 2020
 * **Technical University of Munich**, Germany
   - MSc in Robotics, Cognition, Intelligence, Computer Science, 10, 2014--10, 2016
 * **Munich University of Applied Sciences**, Germany
