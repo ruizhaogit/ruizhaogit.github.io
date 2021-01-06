@@ -23,6 +23,11 @@ Education
 
 Work experience
 ======
+* **Tencent**, Shenzhen, Guangdong, China  
+*Tencent AI Lab*
+  * research scientist, 12. 2020--present
+    - deep reinforcement learning in game AI
+
 * **Horizon Robotics Inc.**, Cupertino, CA, United States  
 *General Artificial Intelligence Lab*
   * researcher, 06. 2019--11. 2019
@@ -30,7 +35,7 @@ Work experience
 
 * **Siemens Corporate Technology**, Munich, BY, Germany  
 *Research Group Machine Intelligence*
-  * researcher, 12. 2016--present
+  * researcher, 12. 2016--11. 2020
     - machine learning, especially deep reinforcement learning in robotics and dialog agents
 
 * **German Aerospace Center (DLR)**, Weßling, BY, Germany  
