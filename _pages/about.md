@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree in Machine Learning in September 2020. 
+I am currently a research scientist at Tencent AI Lab, working on deep reinforcement learning in Game AI and its application in the real-world. I received my Ph.D. degree in Machine Learning in September 2020. 
 My Ph.D. advisor is [Prof. Volker Tresp](http://www.dbs.ifi.lmu.de/~tresp). 
 The Ph.D. program lasts for four years, which is a joint program between the [Ludwig Maximilian University of Munich](https://www.mathematik-informatik-statistik.uni-muenchen.de/index.html) and [Siemens AG](http://www.siemens.com).
 <!-- at the [Research Group Machine Intelligence](https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization-and-software/autonomous-systems-munich-hackathon.html) of [Siemens Corporate Technology](https://www.siemens.com/global/en/home/company/innovation/corporate-technology.html).  -->
