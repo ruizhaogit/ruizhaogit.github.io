@@ -84,7 +84,7 @@ author:
   bio              : "Research Scientist, Machine Learning, Reinforcement Learning, Game AI, Robotics"
   location         : "China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=N1yNDnQAAAAJ&hl=en"
+  googlescholar    : "N1yNDnQAAAAJ&hl"
   email            : "rui.zhao.ml@gmail.com"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCp3SM2UkwWfBA4xrTKC11MQ"
+  youtube          : "UCp3SM2UkwWfBA4xrTKC11MQ"
   wikipedia        :
 
 
